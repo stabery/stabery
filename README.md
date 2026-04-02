@@ -1,5 +1,5 @@
 <h1>Hisui's room</h1>
-I'm lounging around in bed, working right now~
+lounging around in bed, working right now
 
 ![Metrix](./github-metrics.svg)
 
