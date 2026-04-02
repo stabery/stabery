@@ -1,5 +1,5 @@
-<h1>Stabery's bed</h1>
-Working while lounging in bed
+<h1>Hisui's room</h1>
+I'm lounging around in bed, working right now~
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stabery&theme=react)
