@@ -1,2 +1,17 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.34
+name: Metrics
+on:
+  schedule:
+    - cron: "05 10 * * *"
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
