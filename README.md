@@ -8,9 +8,8 @@ I'm lounging around in bed, working right now~
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=windows,github,idea,vscode,visualstudio,unity,ai,ps,pr,ae" />
 </a>
+<br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,cs" />
 </a>
-
-
 </div>
