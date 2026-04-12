@@ -16,3 +16,10 @@ lounging around in bed, working right now
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,cs" />
 </a>
+
+---
+
+About the use of AI
+- My text data may include AI-generated parts.
+- My image data and video data do not use AI generation.
+
