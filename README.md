@@ -14,7 +14,7 @@ lounging around in bed, working right now
 <h3>LANGUAGES</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cs" />
+  <img src="https://skillicons.dev/icons?i=java,cs,lua" />
 </a>
 
 ---
