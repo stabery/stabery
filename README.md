@@ -21,5 +21,5 @@ lounging around in bed, working right now
 
 About the use of AI
 - My text data may include AI-generated parts.
-- My image data and video data do not use AI generation.
+- My image, video, and audio data do not use AI generation.
 
